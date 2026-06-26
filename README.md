@@ -61,6 +61,9 @@ GROQ_API_KEY=your_api_key_here
 ```bash
 streamlit run app.py
 ```
+# 6. Demo Video link
+
+https://1drv.ms/v/c/dc413bd956ade47f/IQD61HU71Z_XRrR0n_6gFuy3AeLi2jE3s0KwUNC1OX6uhKY?e=nAaOwA
 
 ## Usage
 
